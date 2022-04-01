@@ -1,0 +1,6 @@
+OpenStreetMapProcessingResult.java
+ OpenStreetMapProcessingResult
+OpenStreetMapProcessor.java
+ OpenStreetMapProcessor
+Main.java
+ Main
