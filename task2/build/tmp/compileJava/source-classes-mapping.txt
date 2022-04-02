@@ -1,0 +1,34 @@
+task2/database/dao/TagDAO.java
+ task2.database.dao.TagDAO
+task2/database/DatabaseInitializer.java
+ task2.database.DatabaseInitializer
+task2/xml/OpenStreetMapProcessor.java
+ task2.xml.OpenStreetMapProcessor
+task2/Main.java
+ task2.Main
+task2/xml/entities/Node.java
+ task2.xml.entities.Node
+task2/database/dao/NodeDAO.java
+ task2.database.dao.NodeDAO
+task2/xml/entities/Tag.java
+ task2.xml.entities.Tag
+task2/xml/entities/package-info.java
+ task2.xml.entities.package-info
+task2/xml/entities/Member.java
+ task2.xml.entities.Member
+task2/xml/entities/ObjectFactory.java
+ task2.xml.entities.ObjectFactory
+task2/xml/entities/Way.java
+ task2.xml.entities.Way
+task2/xml/entities/Osm.java
+ task2.xml.entities.Osm
+task2/xml/entities/Nd.java
+ task2.xml.entities.Nd
+task2/xml/entities/Relation.java
+ task2.xml.entities.Relation
+task2/database/dto/TagDTO.java
+ task2.database.dto.TagDTO
+task2/xml/XsiTypeReader.java
+ task2.xml.XsiTypeReader
+task2/xml/entities/Bounds.java
+ task2.xml.entities.Bounds

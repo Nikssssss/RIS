@@ -1,0 +1,20 @@
+task2/xml/entities/ObjectFactory.java
+ task2.xml.entities.ObjectFactory
+task2/xml/entities/Way.java
+ task2.xml.entities.Way
+task2/xml/entities/Osm.java
+ task2.xml.entities.Osm
+task2/xml/entities/Node.java
+ task2.xml.entities.Node
+task2/xml/entities/Nd.java
+ task2.xml.entities.Nd
+task2/xml/entities/Relation.java
+ task2.xml.entities.Relation
+task2/xml/entities/Tag.java
+ task2.xml.entities.Tag
+task2/xml/entities/package-info.java
+ task2.xml.entities.package-info
+task2/xml/entities/Member.java
+ task2.xml.entities.Member
+task2/xml/entities/Bounds.java
+ task2.xml.entities.Bounds
