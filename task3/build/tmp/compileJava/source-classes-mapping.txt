@@ -1,0 +1,60 @@
+task3/xml/entities/Osm.java
+ task3.xml.entities.Osm
+task3/xml/entities/Way.java
+ task3.xml.entities.Way
+task3/repositories/WayRepository.java
+ task3.repositories.WayRepository
+task3/xml/entities/Member.java
+ task3.xml.entities.Member
+task3/xml/entities/Nd.java
+ task3.xml.entities.Nd
+task3/entities/RelationEntity.java
+ task3.entities.RelationEntity
+task3/xml/entities/Node.java
+ task3.xml.entities.Node
+task3/xml/entities/ObjectFactory.java
+ task3.xml.entities.ObjectFactory
+task3/repositories/NodeRepository.java
+ task3.repositories.NodeRepository
+task3/controllers/TagController.java
+ task3.controllers.TagController
+task3/controllers/NodeController.java
+ task3.controllers.NodeController
+task3/xml/entities/Bounds.java
+ task3.xml.entities.Bounds
+task3/xml/OpenStreetMapProcessor.java
+ task3.xml.OpenStreetMapProcessor
+task3/controllers/RelationController.java
+ task3.controllers.RelationController
+task3/xml/XsiTypeReader.java
+ task3.xml.XsiTypeReader
+task3/repositories/RelationRepository.java
+ task3.repositories.RelationRepository
+task3/xml/entities/package-info.java
+ task3.xml.entities.package-info
+task3/services/WayService.java
+ task3.services.WayService
+task3/entities/TagEntity.java
+ task3.entities.TagEntity
+task3/controllers/WayController.java
+ task3.controllers.WayController
+task3/entities/NodeEntity.java
+ task3.entities.NodeEntity
+task3/xml/entities/Relation.java
+ task3.xml.entities.Relation
+task3/entities/WayEntity.java
+ task3.entities.WayEntity
+task3/repositories/TagRepository.java
+ task3.repositories.TagRepository
+task3/Main.java
+ task3.Main
+task3/services/NodeService.java
+ task3.services.NodeService
+task3/services/RelationService.java
+ task3.services.RelationService
+task3/xml/entities/Tag.java
+ task3.xml.entities.Tag
+task3/services/TagService.java
+ task3.services.TagService
+task3/Parser.java
+ task3.Parser
